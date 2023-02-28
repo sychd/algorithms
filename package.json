@@ -1,0 +1,12 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Some algorithms implementation in JavaScript",
+  "scripts": {
+    "start": "node",
+    "watch": "node --watch"
+  },
+  "keywords": [],
+  "author": "Denys Sych",
+  "license": "ISC"
+}
